@@ -1,4 +1,4 @@
-# SYNAPSE 🤖
+# SYNAPSE 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-15.5.3-black" alt="Next.js" />
@@ -20,9 +20,7 @@
 <img width="1089" height="901" alt="Image" src="https://github.com/user-attachments/assets/53a50ae9-7826-43a6-890c-08614e0ecbb3" />
 <img width="1156" height="924" alt="Image" src="https://github.com/user-attachments/assets/0b587bc2-efbe-41cc-8af4-9cdc95221f55" />
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/1a1a1a/ffffff?text=SYNAPSE+Screenshot" alt="SYNAPSE App Screenshot" width="800" />
-</div>
-
+ 
 ## ✨ Features
 
 - **🧠 AI-Powered Analysis**: Advanced psychological evaluation using multiple AI providers
