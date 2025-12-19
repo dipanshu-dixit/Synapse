@@ -7,11 +7,6 @@
   <img src="https://img.shields.io/badge/Open_Source-Yes-green" alt="Open Source" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT License" />
 </div>
-<img width="1758" height="925" alt="Image" src="https://github.com/user-attachments/assets/7ca7b61a-74e1-4fd2-a6db-addb3198a77b" />
-<img width="1756" height="918" alt="Image" src="https://github.com/user-attachments/assets/54b00256-af27-4c12-8188-29d0df5111cd" />
-<img width="1089" height="901" alt="Image" src="https://github.com/user-attachments/assets/53a50ae9-7826-43a6-890c-08614e0ecbb3" />
-<img width="1156" height="924" alt="Image" src="https://github.com/user-attachments/assets/0b587bc2-efbe-41cc-8af4-9cdc95221f55" />
-<br />
 
 <div align="center">
   <h1>🧠 SYNAPSE - AI-Powered Psychological Analysis</h1>
@@ -20,7 +15,10 @@
 </div>
 
 <br />
-
+<img width="1758" height="925" alt="Image" src="https://github.com/user-attachments/assets/7ca7b61a-74e1-4fd2-a6db-addb3198a77b" />
+<img width="1756" height="918" alt="Image" src="https://github.com/user-attachments/assets/54b00256-af27-4c12-8188-29d0df5111cd" />
+<img width="1089" height="901" alt="Image" src="https://github.com/user-attachments/assets/53a50ae9-7826-43a6-890c-08614e0ecbb3" />
+<img width="1156" height="924" alt="Image" src="https://github.com/user-attachments/assets/0b587bc2-efbe-41cc-8af4-9cdc95221f55" />
 <div align="center">
   <img src="https://via.placeholder.com/800x400/1a1a1a/ffffff?text=SYNAPSE+Screenshot" alt="SYNAPSE App Screenshot" width="800" />
 </div>
